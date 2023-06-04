@@ -3,6 +3,7 @@ import tkinter
 import threading
 import ctypes
 import psutil
+import os
 
 root = tkinter.Tk()
 root.title('防作弊演示')
